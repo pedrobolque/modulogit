@@ -8,14 +8,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 ## [0.0.1] - 2023-03-28
--Added Changelog.md
-
 ### Added
-
-- This CHANGELOG file to hopefully serve as an evolving example of a
-  standardized open source project CHANGELOG.
-- CNAME file to enable GitHub Pages custom domain.
-- README now contains answers to common questions about CHANGELOGs.
-- Good examples and basic guidelines, including proper date formatting.
-- Counter-examples: "What makes unicorns cry?".
-
+-Added Changelog.md
